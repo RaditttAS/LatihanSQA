@@ -1,4 +1,4 @@
-<project name="Praktik" basedir="." default="run">
+<project name="Tugas" basedir="." default="run">
     <property name="src.dir" value="src"/>
     <property name="build.dir" value="build"/>
     <property name="classes.dir" value="${build.dir}/classes"/>
